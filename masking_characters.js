@@ -15,3 +15,16 @@ for(let i=0;i<str.length;i++){
 }
 
 console.log(newStr);
+
+//second approach
+
+
+let maskChar = "#";
+
+let updatedMaskChar = maskChar.repeat(4);
+
+// console.log(updatedMaskChar)
+
+let finalStr = str.slice(0,str.length-4) + updatedMaskChar ;
+
+console.log(finalStr);
