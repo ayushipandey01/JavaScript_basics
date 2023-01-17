@@ -1,8 +1,3 @@
-.includes(vowels)){
-//     for(let i=0;i<str.length;i++){
-//         strFinal+=str[i];
-        
-//     }    
+datedChar.length;i++){
+//     console.log(updatedChar.charCodeAt(i))
 // }
-
-// console.log(strFinal);
