@@ -5,7 +5,7 @@ let vowels = ["a","e","i","o","u"];
 let strFinal = "";
 
 for(let char of str ){
-    if(!vowels.includes(char)){
+    if(!vowels.includes(char.toLowerCase())){
         strFinal+=char;
     }
 }
