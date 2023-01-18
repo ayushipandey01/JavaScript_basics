@@ -1,3 +1,4 @@
-datedChar.length;i++){
-//     console.log(updatedChar.charCodeAt(i))
+or(let i=0;i<str.length;i++){
+//     let subString = str.substring(i);
+//     console.log(subString);
 // }
